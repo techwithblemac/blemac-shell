@@ -1,0 +1,12 @@
+{
+    "id":           "demo_snake",
+    "title":        "SNAKE",
+    "version":      "v1.0",
+    "author":       "BLEMAC",
+    "description":  "Classic snake. Swipe to steer.",
+    "entry":        "main.py",
+    "icon":         null,
+    "tags":         ["arcade", "classic", "demo"],
+    "orientation":  "portrait",
+    "touch_profile": "none"
+}
